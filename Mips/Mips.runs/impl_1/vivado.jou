@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Dec  7 19:34:04 2019
+# Process ID: 19384
+# Current directory: /home/ulisses/Documentos/Estudos/Vivado/Mips-Sonecav4/Mips-Soneca.runs/impl_1
+# Command line: vivado -log mips.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source mips.tcl -notrace
+# Log file: /home/ulisses/Documentos/Estudos/Vivado/Mips-Sonecav4/Mips-Soneca.runs/impl_1/mips.vdi
+# Journal file: /home/ulisses/Documentos/Estudos/Vivado/Mips-Sonecav4/Mips-Soneca.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source mips.tcl -notrace

@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Mips-Soneca.srcs/sources_1/new/mipspkg.vhd" \
+"../../../../Mips-Soneca.srcs/sources_1/new/control_unit.vhd" \
+"../../../../Mips-Soneca.srcs/sources_1/new/datapath.vhd" \
+"../../../../Mips-Soneca.srcs/sources_1/new/memoria.vhd" \
+"../../../../Mips-Soneca.srcs/sources_1/new/mips.vhd" \
+"../../../../Mips-Soneca.srcs/sim_1/new/teste.vhd" \
+
+# Do not sort compile order
+nosort
